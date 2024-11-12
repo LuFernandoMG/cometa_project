@@ -12,7 +12,7 @@ Este proyecto implementa la API para un sistema de pedidos de bar utilizando Pyt
 1. Clona este repositorio (Mismo que en el Frontend):
 2. 
 ```bash
-git clone https://github.com/lufernandomg/bar-order-system.git
+git clone https://github.com/LuFernandoMG/cometa_project.git
 ```
 
 3. Navega al directorio del proyecto:

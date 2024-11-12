@@ -12,7 +12,7 @@ Este proyecto implementa la interfaz de usuario para un sistema de pedidos de ba
 1. Clona este repositorio:
 2. 
 ```bash
-git clone https://github.com/lufernandomg/bar-order-system.git
+git clone https://github.com/LuFernandoMG/cometa_project.git
 ```
 
 3. Navega al directorio del proyecto:
